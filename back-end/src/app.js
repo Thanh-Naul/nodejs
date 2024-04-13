@@ -1,7 +1,3 @@
-//truong thanh luan
-//vo quoc thang
-//lam minh trung
-
 // app.js
 const express = require('express');
 const connectDB = require('./config/db');
