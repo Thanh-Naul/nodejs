@@ -32,16 +32,16 @@ Khách hàng cần xây dựng trang web trình chiếu lời bài hát Reflow v
 
 Dưới đây là một số ảnh minh họa của dự án:
 
-![Ảnh minh họa 1](images/1.png)
-![Ảnh minh họa 2](images/2.png)
-![Ảnh minh họa 3](images/3.png)
-![Ảnh minh họa 4](images/4.png)
-![Ảnh minh họa 6](images/6.png)
-![Ảnh minh họa 7](images/7.png)
-![Ảnh minh họa 8](images/8.png)
-![Ảnh minh họa 9](images/9.png)
-![Ảnh minh họa 10](images/10.png)
-![Ảnh minh họa 11](images/11.png)
+- ![Ảnh minh họa 1](images/1.png)
+- ![Ảnh minh họa 2](images/2.png)
+- ![Ảnh minh họa 3](images/3.png)
+- ![Ảnh minh họa 4](images/4.png)
+- ![Ảnh minh họa 6](images/6.png)
+- ![Ảnh minh họa 7](images/7.png)
+- ![Ảnh minh họa 8](images/8.png)
+- ![Ảnh minh họa 9](images/9.png)
+- ![Ảnh minh họa 10](images/10.png)
+- ![Ảnh minh họa 11](images/11.png)
 
 
 
