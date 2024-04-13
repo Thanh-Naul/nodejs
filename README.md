@@ -11,11 +11,11 @@ Khách hàng cần xây dựng trang web trình chiếu lời bài hát Reflow v
 ## Cài Đặt
 
 1. Di chuyển vào thư mục dự án:
-  cd ten-du-an
+  -cd ten-du-an
 2. Cài đặt các gói phụ thuộc:
-  npm install
+  -npm install
 3.Chạy ứng dụng trong chế độ phát triển:
-  npm start
+  -npm start
 ## Công Nghệ Sử Dụng
 
 - React.js cho phía người dùng.
@@ -32,16 +32,16 @@ Khách hàng cần xây dựng trang web trình chiếu lời bài hát Reflow v
 
 Dưới đây là một số ảnh minh họa của dự án:
 
-- ![Ảnh minh họa 1](images/1.png)
-- ![Ảnh minh họa 2](images/2.png)
-- ![Ảnh minh họa 3](images/3.png)
-- ![Ảnh minh họa 4](images/4.png)
-- ![Ảnh minh họa 6](images/6.png)
-- ![Ảnh minh họa 7](images/7.png)
-- ![Ảnh minh họa 8](images/8.png)
-- ![Ảnh minh họa 9](images/9.png)
-- ![Ảnh minh họa 10](images/10.png)
-- ![Ảnh minh họa 11](images/11.png)
+![example](1.png)
+![example](2.png)
+![example](3.png)
+![example](4.png)
+![example](6.png)
+![example](7.png)
+![example](8.png)
+![example](9.png)
+![example](10.png)
+![example](11.png)
 
 
 
